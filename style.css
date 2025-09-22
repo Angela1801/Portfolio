@@ -8,7 +8,6 @@
 body {
     background-color: #000000;
     color: #f6f6f6;
-    height: 100vh;
     box-sizing: border-box;
 } 
 
@@ -76,3 +75,14 @@ body {
 .presentacion__enlaces__link:hover {
     background-color: #2f2f2f;
 }   
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 24px 0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #1a1a1a;
+}
